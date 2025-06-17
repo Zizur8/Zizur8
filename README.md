@@ -1,15 +1,29 @@
 <h1 align="center">
-  Cesar 
-  <span align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio" />
-  </a>
-</span>
+  Cesar VS
 </h1>
+
+
+<p>
+  <span>:school:</span>
+  Estudiando Ing. Sistemas Computacionales En El Tecnologico De Nuevo Laredo</p>
+<p>En</p>
+<h2>
+  <span>:relieved:</span>
+  Conocimiento
+</h2>
 <p align="center">
+  <br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,html,css,js" />
+  </a>
+</p>
+
+<h2>
+  <span>:video_game:</span>
+  Videojuego Desarrollado
+</h2>
+
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=godot" />
   </a>
-</p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zizur8)](https://github.com/Zizur8/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zizur8&hide_progress=true)
+  <span>Godot Engine</span>
