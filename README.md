@@ -1,4 +1,8 @@
+
 <h1 align="center">
+    <a href="mailto:cesar8vs@gmail.com" >
+    <img align="left" alt="ashu-guo | Gmail" width="26px" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/gmail.svg" />
+  </a> 
   Cesar VS
 </h1>
 
@@ -6,6 +10,12 @@
 <p>
   <span>:school:</span>
   Estudiando Ing. Sistemas Computacionales En El Tecnologico De Nuevo Laredo
+  <br/>
+  <span>:video_game:</span>
+  Apasionado Por Desarrollar Videojuegos En Mis Tiempos Libres
+  <br/>
+  <span>:computer:</span>
+  Becario Actualmente
 </p>
 <h2>
   <span>:relieved:</span>
@@ -28,5 +38,8 @@
 
 <img src="/SkyFruits.png" width="300" height="300"/>
 
+<div align="center">
 
+  &copy; 2024 VS
+</div>
 
