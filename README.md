@@ -11,9 +11,6 @@
   <span>:school:</span>
   Estudiando Ing. Sistemas Computacionales En El Tecnologico De Nuevo Laredo
   <br/>
-  <span>:video_game:</span>
-  Apasionado Por Desarrollar Videojuegos En Mis Tiempos Libres
-  <br/>
   <span>:computer:</span>
   Becario Actualmente
 </p>
