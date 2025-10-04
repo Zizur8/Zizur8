@@ -9,7 +9,7 @@
 
 <p>
   <span>:school:</span>
-  Estudiando Ing. Sistemas Computacionales En El Tecnologico De Nuevo Laredo
+  Estudiando Ing. Sistemas Computacionales
   <br/>
   <span>:computer:</span>
   Becario Actualmente
