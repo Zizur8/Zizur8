@@ -1,42 +1,51 @@
-
-<h1 align="center">
-    <a href="mailto:cesar8vs@gmail.com" >
-    <img align="left" alt="ashu-guo | Gmail" width="26px" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/gmail.svg" />
-  </a> 
-  Cesar VS
-</h1>
-
-
-<p>
-  <span>:school:</span>
-  Estudiando Ing. Sistemas Computacionales
-  <br/>
-  <span>:computer:</span>
-  Becario Actualmente
-</p>
-<h2>
-  <span>:relieved:</span>
-  Conocimiento
-</h2>
-<p align="center">
-  <br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cs,html,css,js,godot" />
-  </a>
-</p>
-
-  
-<h2>
-  <a href="https://zizurs-games.itch.io/sky-fruits" style="margin-left: 10px;" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=XrWrgAx9pAYM&format=png&color=000000" width="35" height="35" />
-  </a>
-    Sky Fruits
-</h2>
-
-<img src="/SkyFruits.png" width="300" height="300"/>
-
 <div align="center">
 
-  &copy; 2024 VS
+  # Hola, soy Cesar Vazquez (`VS`)
+
+  **Estudiante de Ingeniería en Sistemas Computacionales · Becario · Desarrollador & Game Dev**
+
+  [![Email](https://img.shields.io/badge/Email-cesar8vs%40gmail.com-0A66C2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cesar8vs@gmail.com)
+  [![itch.io](https://img.shields.io/badge/itch.io-Zizur8%20Games-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://zizurs-games.itch.io/)
+
 </div>
 
+---
+
+### Sobre mí
+
+* 🎓 Estudiando **Ingeniería en Sistemas Computacionales**.
+* 💼 Actualmente desempeñándome como **becario**.
+* 🛠️ Interesado en desarrollo de software, estructuras de datos, lógica algorítmica y creación de videojuegos.
+
+---
+
+### Stack & Tecnologías
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,cs,html,css,js,godot,git,github&theme=dark" alt="Stack tecnológico" />
+  </a>
+</p>
+
+---
+
+### Proyecto Destacado: Sky Fruits
+
+Videojuego desarrollado en **Godot Engine** (`GDScript`), disponible tanto en mi repositorio como en itch.io.
+
+<p align="center">
+  <a href="https://zizurs-games.itch.io/sky-fruits" target="_blank">
+    <img src="/SkyFruits.png" alt="Sky Fruits preview" width="320" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://zizurs-games.itch.io/sky-fruits">🎮 Jugar en itch.io</a> ·
+  <a href="https://github.com/Zizur8/Sky-Fruits">📂 Ver código en GitHub</a>
+</p>
+
+---
+
+<div align="center">
+  <sub>© 2026 Cesar VS</sub>
+</div>
