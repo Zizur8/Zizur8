@@ -15,7 +15,7 @@
 
 - 🎓 Estudiando **Ingeniería en Sistemas Computacionales**.
 - 💼 Actualmente desempeñándome como **becario**.
-- 🛠️ Interesado en desarrollo de software, estructuras de datos, lógica algorítmica y creación de videojuegos.
+- 🛠️ Interesado en desarrollo de software, bases de datos, reportes, estructuras de datos y creación de videojuegos.
 
 ---
 
@@ -23,8 +23,15 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cs,html,css,js,godot,git,github&theme=dark" alt="Stack tecnológico" />
+    <img src="https://skillicons.dev/icons?i=java,cs,html,css,js,godot&theme=dark" alt="Stack tecnológico" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Apache%20NetBeans-IDE-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=38BDF8" alt="Apache NetBeans IDE" />
+  <img src="https://img.shields.io/badge/SQL%20Server-Base%20de%20Datos-1D4ED8?style=for-the-badge&logo=microsoftsqlserver&logoColor=38BDF8" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/JasperReports%20%2F%20Jaspersoft-Reportes-1D4ED8?style=for-the-badge&logo=apache&logoColor=38BDF8" alt="JasperReports / Jaspersoft" />
+  <img src="https://img.shields.io/badge/iReport-Dise%C3%B1o%20de%20Reportes-0F172A?style=for-the-badge&logoColor=38BDF8" alt="iReport" />
 </p>
 
 ---
