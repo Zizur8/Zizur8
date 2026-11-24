@@ -13,9 +13,9 @@
 
 ### Sobre mí
 
-* 🎓 Estudiando **Ingeniería en Sistemas Computacionales**.
-* 💼 Actualmente desempeñándome como **becario**.
-* 🛠️ Interesado en desarrollo de software, estructuras de datos, lógica algorítmica y creación de videojuegos.
+- 🎓 Estudiando **Ingeniería en Sistemas Computacionales**.
+- 💼 Actualmente desempeñándome como **becario**.
+- 🛠️ Interesado en desarrollo de software, estructuras de datos, lógica algorítmica y creación de videojuegos.
 
 ---
 
@@ -43,6 +43,18 @@ Videojuego desarrollado en **Godot Engine** (`GDScript`), disponible tanto en mi
   <a href="https://zizurs-games.itch.io/sky-fruits">🎮 Jugar en itch.io</a> ·
   <a href="https://github.com/Zizur8/Sky-Fruits">📂 Ver código en GitHub</a>
 </p>
+
+---
+
+### Contribuciones
+
+<div align="center">
+
+| 📊 Resumen de Actividad |
+| :---: |
+| <br/> ![Total Contributions](https://img.shields.io/badge/153-Total%20Contributions-1D4ED8?style=for-the-badge&logo=github&logoColor=38BDF8) <br/> **Aug 29, 2021 - Present** <br/><br/> |
+
+</div>
 
 ---
 
