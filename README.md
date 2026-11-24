@@ -1,6 +1,6 @@
 <div align="center">
 
-  # Hola, soy Cesar Vazquez (`VS`)
+  # Hola, soy Cesar Vazquez `VS`
 
   **Estudiante de Ingeniería en Sistemas Computacionales · Becario · Desarrollador & Game Dev**
 
